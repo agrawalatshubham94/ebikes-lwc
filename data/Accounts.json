@@ -1,0 +1,40 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name": "Wheelworks",
+            "BillingStreet": "480 Trapelo Road",
+            "BillingCity": "Belmont",
+            "BillingState": "Maryland",
+            "BillingPostalCode": "02478",
+            "BillingCountry": "United States"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "Name": "Northern Trail Cycling",
+            "BillingStreet": "415 Mission St",
+            "BillingCity": "San Francisco",
+            "BillingState": "California",
+            "BillingPostalCode": "94105",
+            "BillingCountry": "United States"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef3"
+            },
+            "Name": "Trailblazers",
+            "BillingStreet": "1095 Avenue of the Americas",
+            "BillingCity": "New York",
+            "BillingState": "New York",
+            "BillingPostalCode": "10036",
+            "BillingCountry": "United States"
+        }
+    ]
+}
